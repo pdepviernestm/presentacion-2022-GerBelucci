@@ -2,5 +2,7 @@
 ##### Legajo: 203.405-0 
 <br><br>
 ## Sobre mi
-### Me gusta programar y me apasiona el mundo de la aviación.
+ ### Tengo 20 años, me gusta programar y me encanta el mundo de la aviación.
+ ### Me va andar en bicla e ir al gimnasio.
+
 
